@@ -47,7 +47,7 @@ function Footer() {
             Designed by
             <a
               rel="nofollow"
-              href="https://www.linkedin.com/in/sajid-bhatti-b2436b24a/"
+              href="www.linkedin.com/in/muhammadabubakar09"
               className="text-cyan-500 hover:underline ml-1"
             >
               Muhammad Abu Bakar
